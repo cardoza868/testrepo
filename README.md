@@ -15,3 +15,8 @@ env npm start
 ```
 
 The `npm install` step will install dependencies defined in `package.json`.
+
+### Features
+
+- Simple in-memory authentication with a login form
+- Navbar with a toggle for light and dark themes
